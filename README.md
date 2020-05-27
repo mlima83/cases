@@ -27,7 +27,7 @@ Essa API é responsável por fornecer o gerenciamento de casos.
 
 	$ mvn install
   
- * A chave de acesso a base está dentro do projeto src/main/resources/caes2-02d1e7cd7cfe.json
+ * A chave de acesso a base do projeto foi enviada por email "caes2-02d1e7cd7cfe.json"
  
  * Configure a propriedade "spring.cloud.gcp.datastore.credentials.location=..." com o caminho absoluto do arquivo em sua maquina.
  
