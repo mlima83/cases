@@ -1,6 +1,5 @@
 # cases
 
-# dna-analyzer
 Essa API é responsável por fornecer o gerenciamento de casos.
 
 
