@@ -1,0 +1,54 @@
+indexes:
+
+- kind: case
+  properties:
+  - name: active
+  - name: folderCi
+  - name: clientsCi
+  - name: descriptionCi
+  - name: dtCreated
+  - name: responsibleCi
+  - name: tags
+  - name: titleCi
+
+- kind: case
+  properties:
+  - name: active
+  - name: folderCi
+
+- kind: case
+  properties:
+  - name: active
+  - name: descriptionCi
+  - name: folderCi
+
+- kind: case
+  properties:
+  - name: active
+  - name: folderCi
+  - name: titleCi
+
+- kind: case
+  properties:
+  - name: active
+  - name: descriptionCi
+  - name: folderCi
+  - name: titleCi
+
+- kind: case
+  properties:
+  - name: active
+  - name: descriptionCi
+  
+- kind: case
+  properties:
+  - name: active
+  - name: descriptionCi
+  - name: titleCi
+
+- kind: case
+  properties:
+  - name: active
+  - name: titleCi
+  
+  

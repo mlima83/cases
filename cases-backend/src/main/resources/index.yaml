@@ -1,0 +1,6 @@
+indexes:
+
+- kind: case
+  properties:
+  - name: folderCi
+  - name: active
